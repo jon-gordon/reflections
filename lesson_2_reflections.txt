@@ -15,3 +15,8 @@ By performing a diff on the staging area, you can see exactly what gets committe
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches help keep variants or new features out of the latest code until ready.  They can also help "milestone" a build for LTS or other such scenarios.
+
+
+How do the diagrams help you visualize the branch structure?
+It shows "parents" of commits so you can follow the logical path up branches.  It helps identify commits that may be lost (no branch - detached HEAD).
+Not obviously from a flat log file and branch list how it all fits together.

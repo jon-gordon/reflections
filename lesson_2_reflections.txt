@@ -7,3 +7,7 @@ This is done to begin your version control of a project.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is conceptual - not an actual physical location or storage.
 It helps package different files up into logical units for a commit, instead of committing everything or one-by-one.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+By performing a diff on the staging area, you can see exactly what gets committed on the commit command.

@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git begins to follow and track changes made to files and folders inside that directory in a repo.
+This is done to begin your version control of a project.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is conceptual - not an actual physical location or storage.
+It helps package different files up into logical units for a commit, instead of committing everything or one-by-one.

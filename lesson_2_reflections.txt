@@ -20,3 +20,10 @@ Branches help keep variants or new features out of the latest code until ready. 
 How do the diagrams help you visualize the branch structure?
 It shows "parents" of commits so you can follow the logical path up branches.  It helps identify commits that may be lost (no branch - detached HEAD).
 Not obviously from a flat log file and branch list how it all fits together.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Combines the changes made on each branch as well as the history for each branch.
+The diagram shows the representation of "parents" for each branch and therefore which commits are merged and which histories are kept.
+
+

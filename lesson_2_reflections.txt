@@ -27,3 +27,7 @@ Combines the changes made on each branch as well as the history for each branch.
 The diagram shows the representation of "parents" for each branch and therefore which commits are merged and which histories are kept.
 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging saves having to resolve differences that were obvious.
+Manual merging stops Git fro mgetting it wrong when trying to guess which commits take precedence or were "right".
+Manual merging, however, is laborious, time-consuming and easy to get wrong.

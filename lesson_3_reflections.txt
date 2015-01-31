@@ -14,4 +14,9 @@ Branches are different development paths within a repo.  Used to experiment, tem
 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-You don't need to be online i nany way to perform work against it.  It's also easier to see diffs.
+You don't need to be online in any way to perform work against it.  It's also easier to see diffs.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Manual sending of source durectories, using a diff tool to merge and send back.  Very manual and laborious.
+Or, I'd use another SCM tool like SVN or PTC.

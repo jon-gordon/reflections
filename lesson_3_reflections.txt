@@ -20,3 +20,8 @@ You don't need to be online in any way to perform work against it.  It's also ea
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Manual sending of source durectories, using a diff tool to merge and send back.  Very manual and laborious.
 Or, I'd use another SCM tool like SVN or PTC.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+This harks back to lesson 1 - changes on bracnhes keeps master/production code clean.  Useful for experimentation, new featues, bug fix testing, etc.
+Master branch collaboration is less complex but more messy and prone to complications with collaborative work.
